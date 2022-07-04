@@ -1,7 +1,8 @@
 import 'package:dio/dio.dart';
 
 class StoriesApi{
-  final baseUrl = "http://triplep.tv/api/";
+  // api Url goes here
+  final baseUrl = "";
   late Dio _dio;
 
   StoriesApi(){
